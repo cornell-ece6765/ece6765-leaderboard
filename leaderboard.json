@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "updated_at": "2026-11-19T18:35:12Z",
+  "updated_at": "2026-11-20T15:00:09Z",
   "teams": [
     {
       "team": "team-01",
       "name": "team-01",
-      "score": 0,
+      "score": 18.4558,
       "traces": {
-        "short-query-answerable": 0,
-        "long-query-answerable": 0,
-        "short-query-unanswerable": 0,
-        "long-query-unanswerable": 0
+        "short-query-answerable": 19.5143,
+        "long-query-answerable": 19.0921,
+        "short-query-unanswerable": 17.5173,
+        "long-query-unanswerable": 17.777
       },
-      "counted_updates": 0,
-      "last_counted": null
+      "counted_updates": 1,
+      "last_counted": "2026-11-20"
     },
     {
       "team": "team-02",
