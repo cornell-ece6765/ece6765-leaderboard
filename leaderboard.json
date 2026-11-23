@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updated_at": "2026-11-23T02:23:04Z",
+  "updated_at": "2026-11-23T16:00:10Z",
   "teams": [
     {
       "team": "team-01",
@@ -96,28 +96,28 @@
     {
       "team": "team-08",
       "name": "team-08",
-      "score": 0,
+      "score": 5.8132,
       "traces": {
-        "short-query-answerable": 0,
-        "long-query-answerable": 0,
-        "short-query-unanswerable": 0,
-        "long-query-unanswerable": 0
+        "short-query-answerable": 7.6416,
+        "long-query-answerable": 7.6856,
+        "short-query-unanswerable": 7.2329,
+        "long-query-unanswerable": 2.6883
       },
-      "counted_updates": 0,
-      "last_counted": null
+      "counted_updates": 1,
+      "last_counted": "2026-11-23"
     },
     {
       "team": "team-09",
       "name": "team-09",
-      "score": 5.5911,
+      "score": 9.7783,
       "traces": {
-        "short-query-answerable": 6.3235,
-        "long-query-answerable": 6.025,
-        "short-query-unanswerable": 4.821,
-        "long-query-unanswerable": 5.3202
+        "short-query-answerable": 11.2851,
+        "long-query-answerable": 11.0099,
+        "short-query-unanswerable": 8.3412,
+        "long-query-unanswerable": 8.8214
       },
-      "counted_updates": 2,
-      "last_counted": "2026-11-21"
+      "counted_updates": 3,
+      "last_counted": "2026-11-23"
     },
     {
       "team": "team-10",
