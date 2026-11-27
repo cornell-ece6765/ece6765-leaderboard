@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updated_at": "2026-11-26T14:00:15Z",
+  "updated_at": "2026-11-27T14:02:08Z",
   "teams": [
     {
       "team": "team-01",
@@ -57,15 +57,15 @@
     {
       "team": "team-05",
       "name": "team-05",
-      "score": 0,
+      "score": 3.9195,
       "traces": {
-        "short-query-answerable": 0,
-        "long-query-answerable": 0,
-        "short-query-unanswerable": 0,
-        "long-query-unanswerable": 0
+        "short-query-answerable": 13.3156,
+        "long-query-answerable": 12.3756,
+        "short-query-unanswerable": 11.6747,
+        "long-query-unanswerable": 0.1227
       },
-      "counted_updates": 0,
-      "last_counted": null
+      "counted_updates": 1,
+      "last_counted": "2026-11-27"
     },
     {
       "team": "team-06",
